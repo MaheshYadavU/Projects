@@ -22,9 +22,9 @@ We tried to perform model building using K Nearest Neighbors, Decision Tree, Log
 Deployment on AWS EC2
 -
 - Created an instance, generate PEM file.
-- Push code to AWS server using FileZilla.
+- Push code to AWS server using Ubuntu.
 - Add source 0.0.0.0/0 with port 5000 in EC2.
-- Connect to server using Powershell and run app.py file.
+- Connect to server and run python file.
 - Run the link on browser (http://ec2-3-142-219-86.us-east-2.compute.amazonaws.com:5000/) to work on the model.
 
 Steps Involved : 
@@ -35,7 +35,6 @@ Steps Involved :
 - Encoding
 - Feature Selection & Scaling
 - Model Building
-- Use of PyCaret
 - UI Building
 - Deployment
 
