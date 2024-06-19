@@ -1,4 +1,4 @@
-# Project for the laboratory of Advanced Programming
+
 # Web Implemenatation for the bank to predict eligible customers using Machine Learning and AWS.
 
 For a wide range of reasons, many individuals apply for loans every day. However, not all candidates are trustworthy, and not everyone will be accepted. There are instances where borrowers fail to repay the majority of their loans to the bank, which causes enormous financial losses. Choosing to approve a loan carries a significant amount of danger. Therefore, the goal of this project is to use machine learning techniques on this data to extract key information, and then forecast whether or not a customer will be able to repay the loan. Therefore, the objective is to determine whether you can predict the customer defaulting or not.
